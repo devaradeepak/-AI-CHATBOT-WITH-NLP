@@ -106,3 +106,4 @@ This AI chatbot demonstrates the power of **Natural Language Processing (NLP)** 
 The project is a great starting point for anyone looking to develop more sophisticated NLP systems. Future improvements could include sentiment analysis, machine learning-based responses, integration with external APIs, and much more.
 
 ## The Output Of The Task
+![Image](https://github.com/user-attachments/assets/a27f3708-e644-4c05-80d5-cd9be668b249)
